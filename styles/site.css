@@ -31,21 +31,37 @@ a{
     text-align: center;
     border-radius: 25px;
 }
-.h1{
-    color: rgb(73,173, 116);
-}
-
 #h1{
+    color: rgb(73,173, 116);
     text-align: center;
 }
 div{
     vertical-align: baseline;
 }
 div1{
-    display: inline-block;
+    display:inline-block;
 }
-.a2{
-    margin: 10px 25px 0 10px;
- 
+#a2{
+    margin:10px 10px 0 30px;
 }
-
+#a3{
+    margin:10px 60px 0 50px ;
+}
+#a4{
+    margin:10px 60px 0 30px;
+}
+#a5{
+    margin:10px 60px 0 40px ;
+}
+#a6{
+    margin: 10px 60px 0 50px;
+}
+#a7{
+    margin: 10px 60px 0 60px;
+}
+#a8{
+    margin: 10px 60px 0 70px;
+}
+#a9{
+    margin: 10px 60px 0 40px;
+}
