@@ -1,0 +1,22 @@
+img{
+    display: inline-block
+}
+#img1{
+    padding: 0 7px 0 25px;
+    float: left;
+    vertical-align: baseline;
+}
+#img2{
+    padding: 0 25px 0 7px;
+    float: left;
+    vertical-align: baseline;
+}
+#img3{
+    padding: 10px 25px 0 7px;
+    vertical-align: baseline;
+}
+.i1{
+    width: 144px;height: 144px;
+    border: solid rgb(202, 196, 196) 1px;
+    border-radius: 10px;
+}

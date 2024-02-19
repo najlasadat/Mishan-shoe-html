@@ -1,0 +1,51 @@
+body{
+    margin: 20px;
+}
+p{
+    display: inline-block;
+}
+#p2{ 
+    border-style: inherit;background-color:rgb(236, 235, 235);
+    width:400px;height: 30px;
+    padding:10px;
+    text-align: right;
+    border-radius: 20px;
+}
+#p1{
+    padding: 10px 60px 10px 60px;  
+}
+
+#lo{
+    padding: 0 0 0 400px;
+}
+a{
+    text-decoration: none;
+    margin: 60px 25px 10px ;
+    padding:15px;
+    display: inline-block;
+}
+#a1{
+    border-style: solid;background-color:rgb(73,173, 116);
+    color: white;
+    width: 100px;height: 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+.h1{
+    color: rgb(73,173, 116);
+}
+
+#h1{
+    text-align: center;
+}
+div{
+    vertical-align: baseline;
+}
+div1{
+    display: inline-block;
+}
+.a2{
+    margin: 10px 25px 0 10px;
+ 
+}
+
